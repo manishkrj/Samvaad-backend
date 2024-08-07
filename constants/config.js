@@ -1,6 +1,6 @@
 const corsOptions = {
   origin: [
-    "http://localhost:5173",
+    "https://samvaad-alpha.vercel.app/",
     "http://localhost:4173",
     process.env.CLIENT_URL,
   ],
