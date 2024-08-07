@@ -1,7 +1,8 @@
 const corsOptions = {
   origin: [
     "https://samvaad-alpha.vercel.app/",
-    "http://localhost:4173",
+    "https://samvaad-git-main-manishkrjs-projects.vercel.app/",
+    "https://samvaad-fsp9gry74-manishkrjs-projects.vercel.app/",
     process.env.CLIENT_URL,
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
